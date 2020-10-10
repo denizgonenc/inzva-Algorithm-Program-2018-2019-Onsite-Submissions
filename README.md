@@ -1,1 +1,3 @@
-# inzva-Algorithm-Program-2018-2019-Onsite-Submissions
+# My submissions for:
+https://www.hackerrank.com/contests/inzva-01-intro-onsite-2018/challenges
+https://www.hackerrank.com/contests/inzva-02-algorithm-1-onsite-2018/challenges
